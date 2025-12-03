@@ -1,2 +1,3 @@
-# teste-fronted.atividade
-
+# Anotações
+Instalar dependências
+npm install mocha chai --save-dev
